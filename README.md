@@ -42,4 +42,4 @@
    	누나<BR>
 </FONT>
  
-<P><A HREF="https://koreanfiat.github.io/gallary/"> 첫작품 입니다, 구경하러 오
+<P><A HREF="https://koreanfiat.github.io/gallary/"> 첫작품 입니다, 구경하러 오세요 
