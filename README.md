@@ -3,7 +3,7 @@
 <HTML>
 
 <HEAD>
-     <TITLE> 자기소개</TITLE>
+   
 </HEAD>
 
 <BODY BACKGROUND="cathdral2.JPG" LEFTMARGIN="100" TOPMARGIN=100>
